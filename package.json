@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-vault-bridge",
+  "version": "0.2.1",
+  "private": true,
+  "main": "server-render.cjs",
+  "scripts": {
+    "start": "node server-render.cjs"
+  },
+  "dependencies": {
+    "redis": "^5.0.0"
+  }
+}
